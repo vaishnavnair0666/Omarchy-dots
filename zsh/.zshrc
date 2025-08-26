@@ -131,6 +131,7 @@ alias cp='cp -iv'
 alias mv='mv -iv'
 alias rm='trash -v'     # needs trash-cli
 alias mkdir='mkdir -pv'
+alias zI='z | fzf'
 
 alias cls='clear'
 alias ezrc="$EDITOR ~/.zshrc"
